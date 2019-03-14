@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="14px" viewBox="0 0 11 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Каталог" transform="translate(-489.000000, -560.000000)" fill="#333333" fill-rule="nonzero">
+            <g id="Group-2" transform="translate(442.000000, 556.000000)">
+                <path d="M46.1783998,11.4242641 C46.0681753,11.3156854 46,11.1656854 46,11 C46,10.8343146 46.0681753,10.6843146 46.1783998,10.5757359 L50.6450976,6.17573593 C50.882964,5.94142136 51.2686217,5.94142136 51.5064882,6.17573593 C51.7443546,6.41005051 51.7443546,6.78994949 51.5064882,7.02426407 L48.0795809,10.4 L58.3909049,10.4 C58.7272988,10.4 59,10.6686292 59,11 C59,11.3313708 58.7272988,11.6 58.3909049,11.6 L48.0795809,11.6 L51.5064882,14.9757359 C51.7443546,15.2100505 51.7443546,15.5899495 51.5064882,15.8242641 C51.2686217,16.0585786 50.882964,16.0585786 50.6450976,15.8242641 L46.1783998,11.4242641 Z" id="Combined-Shape" transform="translate(52.500000, 11.000000) rotate(-90.000000) translate(-52.500000, -11.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

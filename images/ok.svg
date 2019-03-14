@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="11px" viewBox="0 0 15 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Path</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Оформление-заказа-2" transform="translate(-837.000000, -1033.000000)" fill="#7F0C87">
+            <path d="M848.938292,1033.51626 L842.597971,1039.74574 L840.061708,1037.25404 C839.361114,1036.56569 838.22447,1036.56569 837.525446,1037.25404 C836.824851,1037.94238 836.824851,1039.05916 837.525446,1039.74596 L841.329728,1043.48374 C842.028528,1044.17209 843.165396,1044.17209 843.86599,1043.48374 L851.474554,1036.00819 C852.175149,1035.31984 852.175149,1034.20306 851.474554,1033.51626 C850.77553,1032.82791 849.638886,1032.82791 848.938292,1033.51626 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

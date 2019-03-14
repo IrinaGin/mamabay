@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="25px" viewBox="0 0 29 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>heart</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#B61CBC" offset="0%"></stop>
+            <stop stop-color="#7F0C87" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Card-/-Card-hover" transform="translate(-213.000000, -350.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="heart" transform="translate(213.000000, 350.000000)">
+                <path d="M21.1835938,0 C25.7762988,0 29,4.00038889 29,8.70372222 C29,15.9937778 21.6119668,21.5545556 15.0176387,24.8772222 C14.692748,25.0409444 14.307252,25.0409444 13.9823613,24.8772222 C7.39143164,21.5562222 0,15.99 0,8.70372222 C0,3.99205556 3.23100781,0 7.81640625,0 C11.1136836,0 13.3378477,1.63888889 14.5,2.80022222 C15.6621523,1.63888889 17.8863164,0 21.1835938,0 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>success</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#B61CBC" offset="0%"></stop>
+            <stop stop-color="#7F0C87" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Карточка-товара" transform="translate(-150.000000, -925.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="Group-4" transform="translate(150.000000, 925.000000)">
+                <g id="success">
+                    <path d="M14,0 C6.2685,0 0,6.2685 0,14 C0,21.7315 6.2685,28 14,28 C21.7315,28 28,21.7315 28,14 C28,6.2685 21.7315,0 14,0 Z M14,26.25 C7.24609375,26.25 1.75,20.7539062 1.75,14 C1.75,7.24609375 7.24609375,1.75 14,1.75 C20.7539062,1.75 26.25,7.24609375 26.25,14 C26.25,20.7539062 20.7539062,26.25 14,26.25 Z M18.3305937,9.05078125 L12.144125,15.23725 L9.66940625,12.76275 C8.9858125,12.0791563 7.87675,12.0791563 7.1946875,12.76275 C6.51109375,13.4463438 6.51109375,14.5554063 7.1946875,15.2374687 L10.9066562,18.9494375 C11.5885,19.6330313 12.6977812,19.6330313 13.381375,18.9494375 L20.8053125,11.5255 C21.4889062,10.8419063 21.4889062,9.73284375 20.8053125,9.05078125 C20.12325,8.3671875 19.0141875,8.3671875 18.3305937,9.05078125 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

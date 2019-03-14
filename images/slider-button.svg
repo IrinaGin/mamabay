@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="33px" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 8</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-111.7%" y="-111.7%" width="323.3%" height="323.3%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="4.50125558" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Каталог" transform="translate(-208.000000, -1680.000000)">
+            <g id="Group-9" transform="translate(171.000000, 1685.000000)">
+                <g id="Group-8" transform="translate(44.000000, 0.000000)">
+                    <circle id="Oval-2" fill="#000000" opacity="0.198549107" filter="url(#filter-1)" cx="9.140625" cy="11.671875" r="6.046875"></circle>
+                    <circle id="Oval-2-Copy" fill="#FFFFFF" cx="9" cy="9" r="9"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
